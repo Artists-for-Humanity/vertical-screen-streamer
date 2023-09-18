@@ -1,2 +1,4 @@
 # vertical-screen-streamer
-Simple video streamer for Gallery Vertical screen. Currently just an embedded YouTube video. Might become more later!
+Simple video streamer for Gallery Vertical Screen. Currently just an embedded YouTube Playlist that refreshes every hour. 
+
+Might become more later!
